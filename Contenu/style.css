@@ -1,0 +1,35 @@
+.nav-link{
+    color: white !important;
+}
+
+.ext{
+    display: inline-block !important;
+    margin: 0;
+}
+
+.navbar{
+    justify-content: normal !important;
+    margin-bottom: 20px;
+}
+
+#contenu{
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.card{
+    margin: 0 auto;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+.alert-t{
+    margin: 0;
+    text-align: center;
+}
