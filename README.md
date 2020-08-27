@@ -3,7 +3,7 @@
 <h2>Contexte</h2>
 
 <p>
-  Site internet de type blog permettant de poster des articles et de les commenters.
+  Site internet de type blog permettant de poster des articles et de les commenter.
 </p>
 
 <p>
